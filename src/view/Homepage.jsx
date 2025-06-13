@@ -34,7 +34,7 @@ export default function Homepage() {
 
           {/* Right Column - 5/12 width */}
           <div className="md:col-span-4 bg-gray-50 p-0 rounded-lg shadow">
-            <div className='bg-gradient-to-r from-slate-800 to-blue-900 p-5 rounded-lg '><span className='text-2xl text-white'>Brows Jobs</span></div>
+            <div className='bg-gradient-to-r from-slate-800 to-blue-900 p-5 rounded-lg '><span className='text-2xl text-white'>browser Job</span></div>
             <h1 className="text-2xl mb-0 px-6 font-sans text-center py-2 mt-5 font-semibold">
               Openings for International Family <br /> Medicine Specialist
             </h1>
